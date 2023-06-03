@@ -1,0 +1,15 @@
+C#프로그램 설명
+
+1.Pattern01 ~ 09 패턴의 움직임 관리
+2.PatternController 9개의 패턴을 한번씩 보여준 후 랜덤으로 패턴을 돌림
+3.PlayerController 플레이어의 좌우 이동과 점프 및 움직임
+4.PlayerHP 플레이어의 체력상태와 HP포션을 먹었을 때 체력이 차도록 함
+5.UIController 게임의 전반적인 UI를 관리
+6.GameController Main UI, Game UI, Result UI, 애니메이션 등 관리
+7.MovementRigidbody2D 오브젝트의 중력 관리
+8.MovementTransform2D 오브젝트의 움직임 관리
+9.DestroyByPosition 오브젝트를 파괴
+10.ScaleEffect 게임오버 시 GameOver 문구의 특수효과 담당
+11.FadeEffect 게임오버 시 랭크를 표시하는 특수효과
+12.CountingEffect 게임오버 시 점수가 올라가는 특수효과 담당
+13.Utils 게임에 필요한 난수를 생성
